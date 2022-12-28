@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500;600;700&family=Raleway:wght@400;500;600&display=swap");
+body {
+  font-family: Poppins;
+  background-color: #f3fcf4;
+}
+.main-container {
+  max-width: 1200px;
+  width: 98%;
+  margin: 0 auto;
+  padding: 10px 0;
+}
